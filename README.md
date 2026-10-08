@@ -2,7 +2,7 @@
 
 Klasifikasi 6 jenis cacat permukaan baja canai panas (crazing, inclusion, patches, pitted surface, rolled-in scale, scratches) dari gambar grayscale. Fokus proyek ini adalah **evaluasi yang jujur**: baseline, validasi silang, ablasi, uji ketahanan, Grad-CAM, dan analisis kesalahan, bukan sekadar satu angka akurasi.
 
-**Demo:** [isi link Hugging Face Spaces]
+**Demo:** https://steelscan.streamlit.app/
 
 **Data:** NEU surface defect database (Song dan Yan, Northeastern University), 1.800 gambar grayscale 200×200, 300 per kelas, diambil dari Kaggle (`kaustubhdikshit/neu-surface-defect-database`). Lisensi tidak dinyatakan di halaman Kaggle; data asli milik pembuatnya dan dipakai untuk tujuan edukasi. [isi sitasi pembuat asli]
 
