@@ -1,0 +1,6 @@
+streamlit
+tensorflow-cpu
+numpy
+pandas
+opencv-python-headless
+# Model disimpan dengan Keras 3.13.2. Diuji dimuat dengan TensorFlow 2.21.0 / Keras 3.15.1.
